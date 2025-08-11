@@ -38,6 +38,8 @@ pip install -r requirements.txt
 
 ## 📂 Project Structure
 Credit-Score-Prediction/
+
+
 ├── .gitignore
 ├── README.md
 ├── app.py                
@@ -52,3 +54,4 @@ Preprocess and clean the data.
 Train different ML models (e.g., RandomForest, XGBoost).
 Evaluate using metrics such as accuracy, precision, recall, or RMSE.
 Save the best model for deployment.
+
